@@ -1,0 +1,28 @@
+D:\Documents\MKNFCDXSDFC\2\bin\Debug\netcoreapp3.1\os-lab-2.exe
+D:\Documents\MKNFCDXSDFC\2\bin\Debug\netcoreapp3.1\os-lab-2.deps.json
+D:\Documents\MKNFCDXSDFC\2\bin\Debug\netcoreapp3.1\os-lab-2.runtimeconfig.json
+D:\Documents\MKNFCDXSDFC\2\bin\Debug\netcoreapp3.1\os-lab-2.runtimeconfig.dev.json
+D:\Documents\MKNFCDXSDFC\2\bin\Debug\netcoreapp3.1\os-lab-2.dll
+D:\Documents\MKNFCDXSDFC\2\bin\Debug\netcoreapp3.1\os-lab-2.pdb
+D:\Documents\MKNFCDXSDFC\2\obj\Debug\netcoreapp3.1\os-lab-2.csproj.AssemblyReference.cache
+D:\Documents\MKNFCDXSDFC\2\obj\Debug\netcoreapp3.1\os-lab-2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\MKNFCDXSDFC\2\obj\Debug\netcoreapp3.1\os-lab-2.AssemblyInfoInputs.cache
+D:\Documents\MKNFCDXSDFC\2\obj\Debug\netcoreapp3.1\os-lab-2.AssemblyInfo.cs
+D:\Documents\MKNFCDXSDFC\2\obj\Debug\netcoreapp3.1\os-lab-2.csproj.CoreCompileInputs.cache
+D:\Documents\MKNFCDXSDFC\2\obj\Debug\netcoreapp3.1\os-lab-2.dll
+D:\Documents\MKNFCDXSDFC\2\obj\Debug\netcoreapp3.1\os-lab-2.pdb
+D:\Documents\MKNFCDXSDFC\2\obj\Debug\netcoreapp3.1\os-lab-2.genruntimeconfig.cache
+C:\Users\Eugene\Documents\Study\4 семестр\OS\2\bin\Debug\netcoreapp3.1\os-lab-2.exe
+C:\Users\Eugene\Documents\Study\4 семестр\OS\2\bin\Debug\netcoreapp3.1\os-lab-2.deps.json
+C:\Users\Eugene\Documents\Study\4 семестр\OS\2\bin\Debug\netcoreapp3.1\os-lab-2.runtimeconfig.json
+C:\Users\Eugene\Documents\Study\4 семестр\OS\2\bin\Debug\netcoreapp3.1\os-lab-2.runtimeconfig.dev.json
+C:\Users\Eugene\Documents\Study\4 семестр\OS\2\bin\Debug\netcoreapp3.1\os-lab-2.dll
+C:\Users\Eugene\Documents\Study\4 семестр\OS\2\bin\Debug\netcoreapp3.1\os-lab-2.pdb
+C:\Users\Eugene\Documents\Study\4 семестр\OS\2\obj\Debug\netcoreapp3.1\os-lab-2.csproj.AssemblyReference.cache
+C:\Users\Eugene\Documents\Study\4 семестр\OS\2\obj\Debug\netcoreapp3.1\os-lab-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eugene\Documents\Study\4 семестр\OS\2\obj\Debug\netcoreapp3.1\os-lab-2.AssemblyInfoInputs.cache
+C:\Users\Eugene\Documents\Study\4 семестр\OS\2\obj\Debug\netcoreapp3.1\os-lab-2.AssemblyInfo.cs
+C:\Users\Eugene\Documents\Study\4 семестр\OS\2\obj\Debug\netcoreapp3.1\os-lab-2.csproj.CoreCompileInputs.cache
+C:\Users\Eugene\Documents\Study\4 семестр\OS\2\obj\Debug\netcoreapp3.1\os-lab-2.dll
+C:\Users\Eugene\Documents\Study\4 семестр\OS\2\obj\Debug\netcoreapp3.1\os-lab-2.pdb
+C:\Users\Eugene\Documents\Study\4 семестр\OS\2\obj\Debug\netcoreapp3.1\os-lab-2.genruntimeconfig.cache
